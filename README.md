@@ -1,4 +1,4 @@
-# Azure Responsible AI Documentation
+# Azure ResponsibleAI Guide
 
 ## Introduction
 Welcome to the documentation for Azure Responsible AI! This guide will walk you through the steps to use Responsible AI tools and features on the Azure platform to ensure ethical and responsible AI practices in your projects.
@@ -22,7 +22,38 @@ Welcome to the documentation for Azure Responsible AI! This guide will walk you 
 8. [License](#license)
 
 ## Overview
-Provide a brief overview of what Azure Responsible AI is and its key features. Include any relevant links to official documentation or additional resources.
+
+In today's data-driven world, the demand for machine learning models that not only excel in accuracy but also adhere to ethical principles has never been more pronounced. AI innovation is occurring at a rapid pace, companies are accelerating the adoption of AI, societal expectations are evolving, and governments are regulating AI in response.
+
+### What is Responsible AI?
+
+Responsible AI is an approach to developing, assessing, and deploying AI systems in a safe, trustworthy, and ethical way. Microsoft’s Responsible AI Standard defines 6 principles to guide responsible AI practices.
+
+![Responsible AI](img/rai.JPG)
+
+### What is the Responsible AI Dashboard?
+
+The Responsible AI dashboard provides a unified interface to core open-source tools from Microsoft and the community that can help AI practitioners assess how well their models follow those principles.
+
+![Responsible AI Dashboard Tools](img/rai-core-tools.JPG)
+
+### Responsible AI Dashboard Components
+
+The Responsible AI Dashboard includes model debugging and business decision-making tools that can be composed into an end-to-end assessment workflow. These components empower AI practitioners to thoroughly evaluate their models and ensure adherence to ethical guidelines.
+
+![Responsible AI Dashboard Components](img/rai-dashboard-components.JPG)
+
+
+### Microsoft Responsible AI Team
+
+ResponsibleAI at Microsoft is championed by a dedicated team committed to advancing ethical AI practices. Key members of the team include:
+
+- **Ruth Yakubu:** [GitHub](https://github.com/ruyakubu)
+- **Nitya Narasimhan:** [GitHub](https://github.com/nitya)
+
+### Microsoft Learn Collection
+
+To deepen your understanding and skills in Responsible AI, Microsoft offers a comprehensive collection titled "[Responsible AI Resources - For Developers](https://learn.microsoft.com/en-us/collections/mp71u687j65m7r?wt.mc_id=studentamb_299177)". This collection guides you through essential practices using the Responsible AI Dashboard.
 
 ## Getting Started
 ### Prerequisites
@@ -111,4 +142,5 @@ Include a troubleshooting section for common issues users may encounter and thei
 Encourage users to contribute to the documentation or report issues. Provide guidelines for contributing.
 
 ## License
-Specify the license information for your documentation.
+This repository is released under the [MIT License](LICENSE).
+
