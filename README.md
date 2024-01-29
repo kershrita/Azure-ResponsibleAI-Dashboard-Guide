@@ -1,4 +1,4 @@
-# Azure ResponsibleAI Guide
+# Azure ResponsibleAI Dashboard Guide
 
 ## Introduction
 Welcome to the documentation for Azure Responsible AI! This guide will walk you through the steps to use Responsible AI tools and features on the Azure platform to ensure ethical and responsible AI practices in your projects.
@@ -8,18 +8,11 @@ Welcome to the documentation for Azure Responsible AI! This guide will walk you 
 2. [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-3. [Usage](#usage)
-    - [Configuring Responsible AI](#configuring-responsible-ai)
-    - [Monitoring Model Bias](#monitoring-model-bias)
-    - [Explainability](#explainability)
-4. [Examples](#examples)
-    - [Example 1: Configuring Responsible AI](#example-1-configuring-responsible-ai)
-    - [Example 2: Monitoring Model Bias](#example-2-monitoring-model-bias)
-    - [Example 3: Explainability](#example-3-explainability)
-5. [Best Practices](#best-practices)
-6. [Troubleshooting](#troubleshooting)
-7. [Contributing](#contributing)
-8. [License](#license)
+3. [Examples](#examples)
+    - [Regression Model](#regression-model)
+    - [Classification Model](#classification-model-(coming-soon..))
+    - [Object Detection Model](#object-detection-model-(coming-soon..))
+4. [License](#license)
 
 ## Overview
 
@@ -107,39 +100,19 @@ Now, you have set up your local environment for Responsible AI. You can proceed 
 
 Now, whether you're working on your local machine or remotely in GitHub Codespaces, you have successfully set up the environment for Responsible AI. You can proceed with using the features of Responsible AI in your project.
 
-
-## Usage
-Explain how to use the key features of Azure Responsible AI. Provide step-by-step instructions and code snippets where necessary.
-
-### Configuring Responsible AI
-Explain how to configure Responsible AI for your specific use case. Include details about the parameters and options available.
-
-### Monitoring Model Bias
-Guide users on monitoring model bias using Azure Responsible AI. Include information on setting thresholds and interpreting results.
-
-### Explainability
-Detail how to incorporate explainability into your AI models using Azure Responsible AI. Provide insights into interpreting explanations.
-
 ## Examples
 Provide real-world examples to illustrate the usage of Responsible AI in different scenarios.
 
-### Example 1: Configuring Responsible AI
-Include a code snippet or example configuration for setting up Responsible AI in a sample project.
+### Regression Model
+debug a machine learning regression model using RAI
 
-### Example 2: Monitoring Model Bias
-Show a practical example of how to monitor model bias using Azure Responsible AI.
+### Classification Model (coming soon..)
+debug a machine learning classification model using RAI
 
-### Example 3: Explainability
-Demonstrate how to enhance model explainability with Responsible AI in a specific use case.
+### Object Detection Model (coming soon..)
+debug a deep learning object detection model using RAI
 
-## Best Practices
-Offer best practices and tips for using Azure Responsible AI effectively and responsibly.
-
-## Troubleshooting
-Include a troubleshooting section for common issues users may encounter and their solutions.
-
-## Contributing
-Encourage users to contribute to the documentation or report issues. Provide guidelines for contributing.
+[source 1](https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/debug-object-detection-models-with-the-responsible-ai-dashboard/ba-p/3825658)
 
 ## License
 This repository is released under the [MIT License](LICENSE).
