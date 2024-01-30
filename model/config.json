@@ -1,5 +1,0 @@
-{
-	"subscription_id": "Your Azure Subscription ID",
-	"resource_group": "Name of Resource Group",
-	"workspace_name": "Name of Azure Machine Learning Workspace"
-}
